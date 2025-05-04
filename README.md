@@ -15,8 +15,8 @@ This project demonstrates how to use Neo4j as a vector store for Retrieval-Augme
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone <your-repo-url>
-   cd Neo4j_RAG_LangChain
+   git clone https://github.com/NoManNayeem/Neo4j-LangChain-RAG.git
+   cd Neo4j-LangChain-RAG
    ```
 2. Install dependencies:
    ```bash
