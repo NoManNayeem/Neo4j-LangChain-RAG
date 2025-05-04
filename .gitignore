@@ -1,0 +1,44 @@
+!.env.example
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# ─ Python cache & bytecode ─────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ─ Virtual environments ────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ─ Distribution / build ───────────────────────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ─ Pytest ────────────────────────────────────────────────────
+.pytest_cache/
+
+# ─ IDEs & editors ────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ─ Secrets ────────────────────────────────────────────────────
+.env
+# ─ OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+.qodo/
